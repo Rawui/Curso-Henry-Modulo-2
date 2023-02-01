@@ -1,2 +1,1 @@
-# Curso-Henry-Modulo-2
-Este es un repositorio de prueba del modulo dos de henry
+Prueba de como crear un repositorio y clonarlo desde github hasta mi computadora
